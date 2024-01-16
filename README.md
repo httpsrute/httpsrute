@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnolog
 ---
 
 <div>
-<img height = "195px" src="https://github-readme-stats.vercel.app/api?username=httpsrute&show_icons=false&theme=dark&count_private=true&title_color=36BCF7FF&rank_icon=github"/>
-<img height = "195px" src="https://github-readme-activity-graph.vercel.app/graph?username=httpsrute&theme=react-dark&color=36BCF7FF&title_color=36BCF7FF&line=36BCF7FF" />
+<img height = "150px" src="https://github-readme-stats.vercel.app/api?username=httpsrute&show_icons=false&theme=dark&count_private=true&title_color=36BCF7FF&rank_icon=github"/>
+<img height = "150px" src="https://github-readme-activity-graph.vercel.app/graph?username=httpsrute&theme=react-dark&color=36BCF7FF&title_color=36BCF7FF&line=36BCF7FF" />
 </div>
 
