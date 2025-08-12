@@ -7,5 +7,7 @@
 I currently work as an <strong>IT Assistant</strong> and am focused on improving my skills in <strong>Java</strong>.
 </p>
 
+> **Note:** I recently recovered access to this account, so I'll start building things from now on.
+
 ### My Skills
 [![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,vscode&theme=dark)](https://skillicons.dev)
